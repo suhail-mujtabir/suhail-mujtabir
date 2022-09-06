@@ -6,18 +6,18 @@
 
 - ⚡ Wanna hear a secret 'bout me? **"I can do this all day!"**
 <details>
-    <summary><b>Connect with me:</b></summary>
-        <a href="https://fb.com/suhail.mujtabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhail.mujtabir" height="30" width="40" /></a>
-        <a href="https://instagram.com/suhail.mujtabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhail.mujtabir" height="30" width="40" /></a>
-        <a href="https://toph.co/u/suhail_mujtabir" target="blank"><img align="center" src="https://suhail-mujtabir.github.io/img/toph.png" alt="Toph" height="30" width="40" /></a>
-        <a href="https://t.me/Suhail_Mujtabir" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
+    <summary><b>Get in touch :</b></summary>
+        <a href="https://fb.com/suhail.mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/fb.gif" alt="suhail.mujtabir" height="40" width="50" /></a>
+        <a href="https://instagram.com/suhail.mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/tt.gif" alt="suhail.mujtabir" height="40" width="50" /></a>
+        <a href="https://toph.co/u/suhail_mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/toph.png" alt="Toph" height="30" width="50" /></a>
+        <a href="https://t.me/Suhail_Mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/tel.gif" alt="Telegram" height="36" width="50" /></a>
 </details>
 
 
 <details>
     <summary>
         <b>
-            Languages and Tools
+            Learned so Far:
         </b>
     </summary>
     <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
