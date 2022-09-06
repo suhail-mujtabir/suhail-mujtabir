@@ -1,16 +1,19 @@
-### Hello there, I'm Fuad!
+<img src="https://suhail-mujtabir.github.io/img/whoami.png" alt="whoami" height="40px" width="200px"/>
+<h2> Fuad@github</h2>
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **suhailmujtabir@gmail.com**
+- ⚡ **"I can do this all day!"**
 
-- ⚡ Wanna hear a secret 'bout me? **"I can do this all day!"**
+- 📫 Fun fact --**I'm not funny at all !?!**
+
+
 <details>
     <summary><b>Get in touch :</b></summary>
-        <a href="https://fb.com/suhail.mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/fb.gif" alt="suhail.mujtabir" height="40" width="50" /></a>
-        <a href="https://instagram.com/suhail.mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/tt.gif" alt="suhail.mujtabir" height="40" width="50" /></a>
-        <a href="https://toph.co/u/suhail_mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/toph.png" alt="Toph" height="30" width="50" /></a>
-        <a href="https://t.me/Suhail_Mujtabir" target="_blank"><img align="center" src="https://suhail-mujtabir.github.io/img/tel.gif" alt="Telegram" height="36" width="50" /></a>
+        <a href="https://fb.com/suhail.mujtabir" target="_blank" title="Open Facebook?"><img style="margin: 10px" src="https://suhail-mujtabir.github.io/img/fb.gif" alt="suhail.mujtabir" height="40" width="50" /></a>
+        <a href="https://instagram.com/suhail.mujtabir" target="_blank" title="Opne Instagram?"><img style="margin: 10px" src="https://suhail-mujtabir.github.io/img/tt.gif" alt="suhail.mujtabir" height="40" width="50" /></a>
+        <a href="https://t.me/Suhail_Mujtabir" target="_blank" title="Open telegram?"><img style="margin: 10px" src="https://suhail-mujtabir.github.io/img/tel.gif" alt="Telegram" height="40" width="50" /></a><br>
+    <a href="https://toph.co/u/suhail_mujtabir" target="_blank" title="Open Toph.co?"><img style="margin: 10px" src="https://suhail-mujtabir.github.io/img/toph.png" alt="Toph" height="30" width="60" /></a>
 </details>
 
 
@@ -29,6 +32,8 @@
 
 
 
-<h3 align="left">You can </h3>
+<h3>
+    You can 
+</h3>
 <a href="https://www.buymeacoffee.com/suhail.mujtabir"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suhail.mujtabir" /></a>
 
