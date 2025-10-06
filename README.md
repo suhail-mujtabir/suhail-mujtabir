@@ -6,7 +6,7 @@
 
 - ⚡ **"I can do this all day!"**
 
-- 📫 Fun fact --**I'm not funny at all !?!**
+- 📫 Fun fact --**_**
 
 ![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
 ![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
