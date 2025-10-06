@@ -8,7 +8,8 @@
 
 - 📫 Fun fact --**_**
 
-![Snake animation](https://raw.githubusercontent.com/suhail-mujtabir/suhail-mujtabir/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ysuhail-mujtabir/suhail-mujtabir/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/suhail-mujtabir/suhail-mujtabir/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <details>
     <summary><b>Get in touch :</b></summary>
