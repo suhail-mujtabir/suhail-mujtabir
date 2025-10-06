@@ -8,6 +8,8 @@
 
 - 📫 Fun fact --**I'm not funny at all !?!**
 
+![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <details>
     <summary><b>Get in touch :</b></summary>
